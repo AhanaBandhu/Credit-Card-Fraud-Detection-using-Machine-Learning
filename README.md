@@ -26,7 +26,7 @@ Each algorithm is implemented in a separate Jupyter Notebook for clarity and com
 
 ---
 
-## 📊 Dataset Description
+##  Dataset Description
 - Contains numerical credit card transaction records  
 - Features are transformed for privacy protection  
 - Target variable:
@@ -36,7 +36,7 @@ Each algorithm is implemented in a separate Jupyter Notebook for clarity and com
 
 ---
 
-## ⚙️ Project Workflow
+##  Project Workflow
 1. Data loading and exploration  
 2. Data preprocessing and feature scaling  
 3. Model training and prediction  
